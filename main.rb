@@ -1,4 +1,4 @@
-def goodbye
+def seeya
   p "hello"
-  p "goodbye"
+  p "ciao"
 end
